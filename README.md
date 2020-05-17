@@ -11,9 +11,12 @@ and then delete the image from the note and continue to Google Takeout to downlo
 Once you download your zip file, extract the files and copy every HTML file into
 a any folder you want to. 
 
+Using Python 3
 To use the script just type: 
 
 python keeptojoplin.py "folderName\*.html" (include the quotation marks)
+
+Note that you need to install glob (pip install glob3) 
 
 Note that the folder is INSIDE the folder that the python script is in. 
 
