@@ -6,7 +6,7 @@
 # Taken from https://gitlab.com/charlescanato but modified to work correctly with windows and save to
 # a text file
 
-# Last author github.com/kevinlopez10
+# Last author github.com/kvnlpz
 
 
 
